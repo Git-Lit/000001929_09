@@ -1,0 +1,39 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:title>De Aardbol. Magazijn van hedendaagsche land- en volkenkunde ... Met platen en kaarten. [Deel 4-9 by P. H. W.]</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>WITKAMP, Pieter Harme.</MODS:namePart>
+          </MODS:name>
+          <MODS:name>
+            <MODS:namePart>AARDBOL</MODS:namePart>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm type="text">Amsterdam</MODS:placeTerm>
+            </MODS:place>
+            <MODS:dateIssued>1839, 38-54</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:physicalDescription>
+            <MODS:extent>9 dl. ; 4º.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 10002.g.16-19.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1996-06-26</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="w3cdtf">1996-06-26</MODS:recordChangeDate>
+            <MODS:recordIdentifier>000001929</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
