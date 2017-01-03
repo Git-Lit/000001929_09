@@ -1,3 +1,7 @@
+---
+layout: default
+title: De Aardbol. Magazijn van hedendaagsche land- en volkenkunde ... Met platen en kaarten. (Volume 9)
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
